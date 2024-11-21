@@ -6,11 +6,11 @@
 /*   By: bendixschmidt <bendixschmidt@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/14 16:38:55 by bendixschmi       #+#    #+#             */
-/*   Updated: 2024/11/14 17:30:12 by bendixschmi      ###   ########.fr       */
+/*   Updated: 2024/11/14 17:42:09 by bendixschmi      ###   ########.fr       */
 /*                                                                            */
 /******************************************************************************/
 
-/*
+/* Task:
 Given a number n, you have to place n queens on a chess board with the size n*n
 while the queens cannot attack each other.
 

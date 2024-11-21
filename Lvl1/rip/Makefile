@@ -6,7 +6,7 @@
 #    By: bendixschmidt <bendixschmidt@student.42    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/14 16:43:21 by bendixschmi       #+#    #+#              #
-#    Updated: 2024/11/14 17:40:10 by bendixschmi      ###   ########.fr        #
+#    Updated: 2024/11/21 02:29:52 by bendixschmi      ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
@@ -15,10 +15,10 @@ GREEN = \033[0;32m
 RESET = \033[0m
 
 # EXECUTABLE NAME
-NAME = permutations
+NAME = rip
 
 # SOURCE FILES
-SRCS = permutations.c
+SRCS = rip.c
 
 # OBJECT FILES
 OBJS = $(SRCS:.c=.o)
